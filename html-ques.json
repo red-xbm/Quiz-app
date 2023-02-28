@@ -1,0 +1,66 @@
+[
+    {
+        "title": "Why we use <br> element",
+        "answer-0": "To make text bold",
+        "answer-1": "To make text italic",
+        "answer-2": "to add horizontal line",
+        "answer-3": "to add breakline",
+        "right_answer": "to add breakline"
+    },
+    {
+        "title": "is <img> element has attribute href",
+        "answer-0": "yes",
+        "answer-1": "no its for anchor tag <a>",
+        "answer-2": "all elements has this attribute",
+        "answer-3": "answer 1 and 3 is right",
+        "right_answer": "no its for anchor tag <a>"
+    },
+    {
+        "title": "how can we make element text bold",
+        "answer-0": "putting it inside <b> tag",
+        "answer-1": "putting it inside <strong> tag",
+        "answer-2": "customizing it with font-weight property in css",
+        "answer-3": "all answer is right",
+        "right_answer": "all answer is right"
+    },
+    {
+        "title": "in html can we use this way to add attributes",
+        "answer-0": "<div class=`class-name`>",
+        "answer-1": "<div class=class-name>",
+        "answer-2": "<div class\"class-name\">",
+        "answer-3": "all is right",
+        "right_answer": "<div class\"class-name\">"
+    },
+    {
+        "title": "what is the element thats not exists in html5 semantics",
+        "answer-0": "<article>",
+        "answer-1": "<section>",
+        "answer-2": "<blockquote>",
+        "answer-3": "<aside>",
+        "right_answer": "<blockquote>"
+    },
+    {
+        "title": "how we spacify document Html5 page",
+        "answer-0": "<DOCTYPE HTML>",
+        "answer-1": "<DOCTYPE HTML5>",
+        "answer-2": "<!DOCTYPE HTML5>",
+        "answer-3": "<!DOCTYPE HTML>",
+        "right_answer": "<!DOCTYPE HTML>"
+    },
+    {
+        "title": "what is the tag that not exists in html ",
+        "answer-0": "<object>",
+        "answer-1": "<basefont>",
+        "answer-2": "<abbr>",
+        "answer-3": "all tags is exists in html",
+        "right_answer": "all tags is exists in html"
+    },
+    {
+        "title": "how can we include external page inside our html page",
+        "answer-0": "by using include in html",
+        "answer-1": "by using load in html",
+        "answer-2": "by using iFrame tag",
+        "answer-3": "All solutions is wrong",
+        "right_answer": "by using iFrame tag"
+    }
+]
