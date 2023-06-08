@@ -129,6 +129,17 @@ body {
     font-weight: 600;
     letter-spacing: 0.5px;
 }
+p {
+    color: white;
+    text-align: center;
+    font: 13px;
+    padding: 10px 0 auto;
+}
+p a {
+    text-decoration: none;
+    border-bottom: white 1px solid;
+    color:#fdfdfd8c;
+}
 
 
 
